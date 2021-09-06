@@ -15,7 +15,6 @@
         <maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
         <javafx.maven.plugin.version>0.0.6</javafx.maven.plugin.version>
     </properties>
-
     <dependencies>
         <dependency>
             <groupId>org.openjfx</groupId>
@@ -42,7 +41,6 @@
             <version>4.1.1.4</version>
         </dependency>
     </dependencies>
-
     <build>
         <plugins>
             <plugin>
